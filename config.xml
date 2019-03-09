@@ -22,8 +22,8 @@
     <plugin name="cordova-plugin-network-information" source="npm" spec="~1.3.3" />
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.5" />
     <platform name="android">
-        <icon src="smsb.png" />
-        <gap:splash src="smsbsp.png" />
+        <icon src="https://github.com/Gesse-Cosmo/Ora-es-SMSB/blob/master/www/img/smsb.png" />
+        <gap:splash src="https://github.com/Gesse-Cosmo/Ora-es-SMSB/blob/master/www/img/smsbsp.png" />
     </platform>
     
     <access origin="*" />
